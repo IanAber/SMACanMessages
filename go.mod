@@ -1,4 +1,4 @@
-module SMACanMessages
+module github.com/IanAber/SMACanMessages
 
 go 1.16
 
